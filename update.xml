@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='cahmhaolfjfihlaifdbkbbcpnnicemcl'>
+    <updatecheck codebase='https://aming-win.github.io/ops-ext-privacy/ext.crx' version='1.0.1' />
+  </app>
+</gupdate>
